@@ -18,11 +18,11 @@
 ## Related artifacts
 	Architecture docs 
 	Data dictionary
-	Any artifacts that will help the reviewer
-		blog explaining the design pattern you are using.
+	Any artifacts/docs that will help the reviewer
+		ex:- blog explaining the design pattern you are using.
 
 ## Performance test
-	Add performance test results 
+	Add performance test results if applicable
 
 ## Deployment
 	Any special instructions for deploying this PR
@@ -31,7 +31,10 @@
 ## Data 
 	DB dependency( new table/index/…)
 	Do we need data migration?
+	
 ### DB Queries
 	Add the query plan for complex SQL queries (i.e explain SQL)
 
 ## Link related PRs
+
+
