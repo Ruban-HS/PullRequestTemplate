@@ -4,6 +4,9 @@
 ## Solution 
 > How are you solving it? Keep it simple.
 
+- [ ] Tests for the changes have been added (for bug fixes / features)
+- [ ] Docs have been added / updated (for bug fixes / features)
+
 ## How to test this PR
 	Provide steps to test the PR
 	Endpoint URLs 
